@@ -8,6 +8,7 @@
 ## Example
 
 ![](https://github.com/ablettchen/ATPickerView/blob/master/Example/images/picker.gif)
+
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ```objectiveC
