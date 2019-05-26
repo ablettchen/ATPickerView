@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'ATPickerView_Example' do
+  pod 'ATPickerView', :path => '../'
+
+  target 'ATPickerView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
