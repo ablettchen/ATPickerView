@@ -65,7 +65,7 @@
 		C324269064ADD6BCB3B55E6A /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		DB5641F27DF97C0FF73ACF23 /* Pods-ATPickerView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ATPickerView_Example.debug.xcconfig"; path = "Target Support Files/Pods-ATPickerView_Example/Pods-ATPickerView_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		E73CF7F3FBBEC77218A3F65E /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		F21BD91D9A3D0A96654BFAE9 /* ATPickerView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = ATPickerView.podspec; path = ../ATPickerView.podspec; sourceTree = "<group>"; };
+		F21BD91D9A3D0A96654BFAE9 /* ATPickerView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = ATPickerView.podspec; path = ../ATPickerView.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		F803F88DF0DFA6B43E7BEA7F /* Pods-ATPickerView_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ATPickerView_Example.release.xcconfig"; path = "Target Support Files/Pods-ATPickerView_Example/Pods-ATPickerView_Example.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 

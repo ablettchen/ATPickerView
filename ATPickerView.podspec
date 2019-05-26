@@ -13,7 +13,7 @@ s.summary                 = 'A short description of ATPickerView.'
 s.homepage                = 'https://github.com/ablettchen/ATPickerView'
 s.license                 = { :type => 'MIT', :file => 'LICENSE' }
 s.author                  = { 'ablett' => 'ablettchen@gmail.com' }
-s.source                  = { :git => 'https://github.com/ablettchen/ATSheetView.git', :tag => s.version.to_s }
+s.source                  = { :git => 'https://github.com/ablettchen/ATPickerView.git', :tag => s.version.to_s }
 s.social_media_url        = 'https://twitter.com/ablettchen'
 s.ios.deployment_target   = '8.0'
 s.source_files            = 'ATPickerView/**/*.{h,m}'
